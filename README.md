@@ -9,7 +9,7 @@
 <h3 align="left">SENGHONG</h3>
 <p align="left">
   
-Data Scientist with 2+ years of broad-based experience in building data-intensive applications, overcoming complex architectural, and scalability issues in diverse industries. Proficient in Data visualization, data processing, ETL Processing and data mining algorithms, as well as scripting languages, including Python. Capable of creating, developing, testing, and deploying highly adaptive diverse services to translate business and functional qualifications into substantial deliverables.
+Data Scientist with 3+ years of broad-based experience in building data-intensive applications, overcoming complex architectural, and scalability issues in diverse industries. Proficient in Data visualization, data processing, ETL Processing and data mining algorithms, as well as scripting languages, including Python. Capable of creating, developing, testing, and deploying highly adaptive diverse services to translate business and functional qualifications into substantial deliverables.
 
   <p>&nbsp;</p>
   
