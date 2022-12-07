@@ -2,7 +2,7 @@
 <h2 align="center">Data engineering | Data modeling | Data Analytic | Machine Learning | AI</h2> 
 
 
-
+![Architecture](/1667148530215.gif)
 
 
 
@@ -11,16 +11,46 @@
   
 Data Scientist with 2+ years of broad-based experience in building data-intensive applications, overcoming complex architectural, and scalability issues in diverse industries. Proficient in Data visualization, data processing, ETL Processing and data mining algorithms, as well as scripting languages, including Python. Capable of creating, developing, testing, and deploying highly adaptive diverse services to translate business and functional qualifications into substantial deliverables.
 
-<h3 align="left">Working Experience</h3>
-<p align="left">  
+## Working Experience
+  
 
 ### Mekong Big Data
+#### Position
+Data Speicalist
 #### Responsibility
 - Drive the interaction and partnership between the managers to ensure active cooperation in identifying as well as defining analytical needs, and generating the pull-through of insights with the business
 - Build predictive models using various machine learning tools to predict the possibility of equipment failure
 - Developed Key Performance Indicators (KPI) and presented it to the management and led to the execution plan 
-
+- Data migration, Design the pipeline for ETL process
+- Develop Database for increasing data in the company
+- Demonstrate knowledge and execution of application programming interface development and test automation
+- Utilized analytic and technical expertise to provide insights and proposals to support business improvements
+- Conducted business analysis to understand business needs and requirements to translate into conceptual designs.
+- Develop action plans to mitigate risks in decision making while increasing profitability by leveraging data science.
+- Support Power BI technical part and Data validation to ensure that source and target are same.
   
+ 
+ ### DataU Academy
+ #### Position
+ Mentor
+ #### Responsibility
+ - Teaching hard skill like SQL, ETL, Power BI, Python
+ - Structuring the course and Develop curriculum of study
+ - Define students' need and fully support their learning experience
+ - Define skill need that company will achieve their goal
+ - Researching and developing the course and case study
+ - Research on NiFi ETL, and Amundsen Metadata
+ - Documenting the course and define the parttern of learning
+ 
+ ### Dataticon
+ #### Position
+ Data Engineer & Data Analytic
+ #### Responsibility
+ - Build data piple using apache technology to ingest data and make data available
+ - Build, manage and develop Power BI pipeline for building report and dashboard
+ - Defind data partern and search on tools usage
+ - Architecture dataflow
+ 
  
   
   
