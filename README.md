@@ -17,6 +17,8 @@ Data Scientist with 2+ years of broad-based experience in building data-intensiv
 ### Mekong Big Data
 #### Position
 Data Speicalist
+  
+[![](https://img.shields.io/badge/Data%20Speicalist-blue?style=for-the-badge)](https://docs.rs/crate/redant/latest)
 #### Responsibility
 - Drive the interaction and partnership between the managers to ensure active cooperation in identifying as well as defining analytical needs, and generating the pull-through of insights with the business
 - Build predictive models using various machine learning tools to predict the possibility of equipment failure
@@ -32,7 +34,8 @@ Data Speicalist
  
  ### DataU Academy
  #### Position
- Mentor
+ 
+ [![](https://img.shields.io/badge/Mentor-yellow?style=for-the-badge)](https://docs.rs/crate/redant/latest)
  #### Responsibility
  - Teaching hard skill like SQL, ETL, Power BI, Python
  - Structuring the course and Develop curriculum of study
@@ -44,7 +47,8 @@ Data Speicalist
  
  ### Dataticon
  #### Position
- Data Engineer & Data Analytic
+
+[![](https://img.shields.io/badge/Data%20Engineer%20&%20Data%20Analytic-green?style=for-the-badge)](https://docs.rs/crate/redant/latest)
  #### Responsibility
  - Build data piple using apache technology to ingest data and make data available
  - Build, manage and develop Power BI pipeline for building report and dashboard
