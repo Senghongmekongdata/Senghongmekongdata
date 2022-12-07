@@ -52,15 +52,50 @@ Data Speicalist
  #### Responsibility
  - Build data piple using apache technology to ingest data and make data available
  - Build, manage and develop Power BI pipeline for building report and dashboard
+ - Communicate with team across the globe for technical solution
+ - Auditing and Validating Data
+ - Develop the script and algorithm for more complex report and dashboard 
  - Defind data partern and search on tools usage
- - Architecture dataflow
+ - Architecture dataflow for more flexible data movement and report
+ - Research and Development strategy for better performance and process
  
  <br />
 <p>&nbsp;</p>
 
  ## Education
  
+ 
+ <table style="width:100%">
+  <tr>
+    <th>Master of Data Science</th>
+     <th>Data Science Advanced Specialist</th>
+     <th>Data Engineer & Data Science</th>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/58208161/206219824-a4af0a48-c746-475f-be28-47e0c3e90b32.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="200" /></td>
+    <td><img src="https://mydatau.org/wp-content/uploads/elementor/thumbs/cropped-DataU-02-2-om7j4p01drm8209tq1yn1ijkqkwq326ltf5f9wgg5s.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="200" /></td>
+    <td><img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_4072699d88b493349a899494aad8b890/datacamp.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="200" /></td>
+  </tr>
+ </table>
+ 
+ 
+  <br />
   
+ ## Achievements
+- Build Machine Learning to predict churn customer
+- Build Time Series to predict the sale performance
+- Optimize customer active/non-active in SQL
+- Build pipeline for automating data from Trello to Power BI and Support technical part on GIZ project
+- Build Dashboard for tracking employee tasks
+- Data mining for specifying analyze purpose
+- Develop Dashboard and Report for GIZ
+- Build Dashboard Asset Performance for VOS, Partner In Performance, Newcrest at Texas, USA 
+- Automate the dataflow using python script for integrate data from AIP to the cloud SharePoint
+
+ 
+
+ 
+ 
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
