@@ -17,7 +17,6 @@ Data Scientist with 3+ years of broad-based experience in building data-intensiv
   
 
 ### Mekong Big Data
-#### Position
 Data Speicalist
   
 <img src="https://img.shields.io/badge/Position-Data%20Specialist-%20brightblue" height="30" />
@@ -36,8 +35,6 @@ Data Speicalist
   
  
  ### DataU Academy
- #### Position
- 
 <img src="https://img.shields.io/badge/Position-%20Mentor%20-yellowgreen" height="30" />
 
  #### Responsibility
@@ -50,7 +47,6 @@ Data Speicalist
  - Documenting the course and define the parttern of learning
  
  ### Dataticon
- #### Position
 <img src="https://img.shields.io/badge/Position-Data%20Engineer%20&%20Data%20Analytic-blue" height="30" />
 
  #### Responsibility
