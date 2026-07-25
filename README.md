@@ -41,3 +41,32 @@ I have experience translating business requirements into reliable technical solu
 Currently, I am exploring advanced topics in **Artificial Intelligence, Machine Learning, Natural Language Processing, and MLOps** to build intelligent systems that solve real-world problems.
 
 ---
+# 🌟 Featured Projects
+
+
+## 🛡️ Data Processing and Building Financial Report
+### Data Engineering & Analytics in Banking Industry
+
+A data engineering and analytics project for the banking industry.
+
+### Key Features:
+
+- 🔎 Website security monitoring
+- 🚨 Real-time threat alerts
+- 🔐 Detection of suspicious activities
+- 👥 Admin management system
+- 🔥 Firebase real-time synchronization
+
+
+### Technologies:
+
+```
+Flutter
+Dart
+Firebase Realtime Database
+Firebase Authentication
+Cybersecurity Monitoring
+```
+
+
+---
