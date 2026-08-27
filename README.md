@@ -40,28 +40,6 @@ I have experience translating business requirements into reliable technical solu
 
 Currently, I am exploring advanced topics in **Artificial Intelligence, Machine Learning, Natural Language Processing, and MLOps** to build intelligent systems that solve real-world problems.
 
----
-
-# 🌟 Featured Projects
-
-
-## 💳 Data Processing & Building Financial Report
-### Enterprise Data Engineering & Financial Reconciliation Platform (Banking Industry)
-An automated, enterprise-grade data platform engineered to process core banking transaction reconciliation, credit card income reporting, and customer churn analytics across heterogeneous databases.
-### 🌟 Key Highlights & Architecture Solutions:
-- 🔄 **Multi-Database Pipeline Ingestion**: Orchestrates parallel data extraction across **Oracle Core Banking (SVBO)**, **MySQL Digital Database**, and **MS SQL Server Data Warehouse**.
-- ⚖️ **SCD Type 2 Historical Alignment**: Matches credit card transactions against historically active customer loyalty membership levels at transaction time, preventing retroactive upgrade distortions.
-- 🧮 **Automated Audit & Gap Calculation Engine**: Custom MySQL stored procedure engine (`sp_load_rpt_reconcile_trxn_dev`) computing daily/monthly limits, point gap analysis, and policy audit flags (`Point_Status_Flag`).
-- 🔁 **Flexible Daily & Bulk Execution**: Features incremental daily staging runs (`orchestrator.py`) and day-by-day batch loop backfills (`bulk_orchestrator.py`).
-- 🔔 **Automated Telegram Monitoring**: Integrated Telegram bot alert dispatcher broadcasting real-time pipeline execution status and error logs to engineering teams.
-### 🛠️ Technologies & Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-
 
 ---
 
