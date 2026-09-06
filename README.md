@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm SENGHONG SOEUNG
 
-## 🤖 AI Engineer | 📊 Data Analyst | 💻 Data Engineer
+## 🤖 AI & ML Engineer | 📊 Data Analyst | 💻 Data Engineer
 
 Building intelligent solutions with  
 **Artificial Intelligence • Machine Learning • Data Analytics • Mobile Applications**
